@@ -60,4 +60,4 @@ if len(newPrices) > 0 :
                 line = newName + ' had a price of $' + str(newPrice) + ' at ' + time + change +'\n'
                 f.write(str(line))
 
-	#os.system("mail -s 'Test Subject' lalkaed@gmail.com < file.txt")
+	#os.system("mail -s 'Test Subject' *address* < file.txt")
